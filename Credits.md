@@ -24,7 +24,7 @@ A complete list of used assets
   - scorcher24 - https://opengameart.org/content/space-backgrounds
 
 - Spaceships
-  - A.ART - https://assetstore.unity.com/publishers/23879 - engine flames from this pack were also widely used
+  - A.ART - https://assetstore.unity.com/publishers/23879 - *engine flames from this pack were also widely used*
   - Skorpio - https://opengameart.org/users/skorpio
   - MillionthVector - http://millionthvector.blogspot.com
 
@@ -33,8 +33,8 @@ A complete list of used assets
   - CraftPix - https://craftpix.net
 
 - Fonts
-  - Ethnocentric - https://www.fontspring.com/fonts/typodermic/ethnocentric - UI font
-  - Droid Sans - https://www.dafontfree.io/droid-sans-font/ - dialogues text font
+  - Ethnocentric - https://www.fontspring.com/fonts/typodermic/ethnocentric - *UI font*
+  - Droid Sans - https://www.dafontfree.io/droid-sans-font/ - *dialogues text font*
 
 - Player shield effect
   - Bonsaiheldin - https://opengameart.org/content/shield-effect
@@ -63,9 +63,9 @@ A complete list of used assets
   - Anomaex - https://freesound.org/people/Anomaex/sounds/490253/
 
 - SFX: player effects sounds
-  - tjcason - https://freesound.org/people/tjcason/sounds/390475/ - time machine charge
-  - tyops - https://freesound.org/people/tyops/sounds/250843/ - player spaceship appearing (sound was reversed)
-  - aust_paul https://freesound.org/people/aust_paul/sounds/30937/ - booster pickup (sound was reversed)
+  - tjcason - https://freesound.org/people/tjcason/sounds/390475/ - *time machine charge*
+  - tyops - https://freesound.org/people/tyops/sounds/250843/ - *player spaceship appearing (sound was reversed)*
+  - aust_paul https://freesound.org/people/aust_paul/sounds/30937/ - *booster pickup (sound was reversed)*
 
 - SFX: lasers
   - Kenney - https://www.kenney.nl
@@ -77,4 +77,4 @@ A complete list of used assets
   - unfa - https://freesound.org/people/unfa/sounds/244266/
 
 - SFX: boss sounds
-  - dpren - https://freesound.org/people/dpren/sounds/440147/ - boss gun charging
+  - dpren - https://freesound.org/people/dpren/sounds/440147/ - *boss gun charging*

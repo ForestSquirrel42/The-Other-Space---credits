@@ -1,4 +1,4 @@
-# The-Other-Space---credits
+# The Other Space: Galaxy shooter - credits
 A complete list of used assets
 
 # Visuals

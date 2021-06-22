@@ -78,3 +78,4 @@ unfa - https://freesound.org/people/unfa/sounds/244266/
 
 [SFX: boss sounds]
 dpren - https://freesound.org/people/dpren/sounds/440147/ - boss gun charging
+

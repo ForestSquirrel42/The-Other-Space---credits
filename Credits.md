@@ -6,17 +6,25 @@ A complete list of used assets
 [Lasers]
 
 Rawdanitsu - https://opengameart.org/content/lasers-and-beams
+
 Bonsaiheldin - https://opengameart.org/content/sci-fi-space-simple-bullets
+
 Cethiel - https://opengameart.org/users/cethiel
+
 Wenrexa - https://opengameart.org/content/assets-free-laser-bullets-pack-2020
+
 Tatermand - https://opengameart.org/content/2d-shooter-effects-alpha-version
 
 [Particles]
 
 Unity Tech - https://assetstore.unity.com/packages/essentials/asset-packs/unity-particle-pack-5-x-73777
+
 Moonflower Carnivore - https://assetstore.unity.com/packages/vfx/particles/particle-attractor-86896
+
 Core games studio - https://assetstore.unity.com/packages/vfx/particles/fire-explosions/fire-explosion-vfx-48795
+
 dreamlevel - https://assetstore.unity.com/packages/vfx/particles/dl-fantasy-rpg-effects-68246
+
 Sherbb - https://assetstore.unity.com/packages/vfx/particles/sherbb-s-particle-collection-170798
 
 [Background images]

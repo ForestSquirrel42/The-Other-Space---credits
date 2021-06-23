@@ -19,7 +19,7 @@ A complete list of used assets
 
 - **Background images**
   - ShinyOgre - https://opengameart.org/content/solar-system
-  - DinV Studio - https://www.dinvstudio.com
+  - DinV Studio - https://assetstore.unity.com/packages/2d/textures-materials/dynamic-space-background-lite-104606
   - screamingbrain - https://opengameart.org/content/seamless-space-backgrounds
   - scorcher24 - https://opengameart.org/content/space-backgrounds
 
@@ -30,7 +30,7 @@ A complete list of used assets
 
 - **User interface**
   - 3d.rina - https://assetstore.unity.com/packages/2d/gui/sci-fi-gui-skin-15606
-  - CraftPix - https://craftpix.net
+  - CraftPix - https://opengameart.org/content/space-shooter-game-user-interface
 
 - **Fonts**
   - Ethnocentric - https://www.fontspring.com/fonts/typodermic/ethnocentric - *UI font*
@@ -51,15 +51,15 @@ A complete list of used assets
 # Music and SFX
 
 - **Music**
-  - maxstack - https://opengameart.org/users/maxstack
-  - Matthew Pablo - https://matthewpablo.com
-  - Eric Matyas - http://soundimage.org
-  - Szymon Matuszewski - https://opengameart.org/users/szymon-matuszewski
+  - Eric Matyas - http://soundimage.org - *"Future Grunge", "The Creeping Blob", "Troublie in a Digital City"*
+  - Matthew Pablo - https://matthewpablo.com - *"Space Dimensions" (retro version), "Orbital Colossus"*
+  - maxstack - https://opengameart.org/content/through-space
+  - Szymon Matuszewski - https://opengameart.org/content/szymon-matuszewski-space-chase
 
 - **SFX: explosions**
   - harpoyume - https://freesound.org/people/harpoyume/sounds/86026/
-  - MATRIXX - https://freesound.org/people/MATRIXXX_/
-  - Kutejnikov - https://opengameart.org/users/kutejnikov
+  - MATRIXX - https://freesound.org/people/MATRIXXX_/sounds/521105/
+  - Kutejnikov - https://opengameart.org/content/explosion-8
   - Anomaex - https://freesound.org/people/Anomaex/sounds/490253/
 
 - **SFX: player effects sounds**
@@ -68,7 +68,7 @@ A complete list of used assets
   - aust_paul https://freesound.org/people/aust_paul/sounds/30937/ - *booster pickup (sound was reversed)*
 
 - **SFX: lasers**
-  - Kenney - https://www.kenney.nl
+  - Kenney - https://opengameart.org/content/63-digital-sound-effects-lasers-phasers-space-etc
 
 - **SFX: text typing sound**
   - qubodup - https://opengameart.org/content/beep-tone-sound-sfx

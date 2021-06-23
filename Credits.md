@@ -24,7 +24,7 @@ A complete list of used assets
   - scorcher24 - https://opengameart.org/content/space-backgrounds
 
 - **Spaceships**
-  - A.ART - https://assetstore.unity.com/publishers/23879 - *engine flames from this pack were also widely used*
+  - A.ART - https://assetstore.unity.com/packages/2d/textures-materials/2d-spaceships-pack-1-86267 - *engine flames from this pack were also widely used*
   - Skorpio - https://opengameart.org/users/skorpio
   - MillionthVector - http://millionthvector.blogspot.com
 

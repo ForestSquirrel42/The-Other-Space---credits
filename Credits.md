@@ -51,7 +51,7 @@ A complete list of used assets
 # Music and SFX
 
 - **Music**
-  - Eric Matyas - http://soundimage.org - *"Future Grunge", "The Creeping Blob", "Troublie in a Digital City"*
+  - Eric Matyas - http://soundimage.org - *"Future Grunge", "The Creeping Blob", "Trouble in a Digital City"*
   - Matthew Pablo - https://matthewpablo.com - *"Space Dimensions" (retro version), "Orbital Colossus"*
   - maxstack - https://opengameart.org/content/through-space
   - Szymon Matuszewski - https://opengameart.org/content/szymon-matuszewski-space-chase

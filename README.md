@@ -1,7 +1,7 @@
 # The Other Space: Galaxy shooter - credits
 A complete list of used assets
 
-# Visuals
+## Visuals
 
 - **Lasers**
   - Rawdanitsu - https://opengameart.org/content/lasers-and-beams
@@ -49,7 +49,7 @@ A complete list of used assets
 - **Powerups**
   - James Legg - https://opengameart.org/content/racing-gui-sci-fi
 
-# Music and SFX
+## Music and SFX
 
 - **Music**
   - Eric Matyas - http://soundimage.org - *"Future Grunge", "The Creeping Blob", "Trouble in a Digital City"*
@@ -80,5 +80,7 @@ A complete list of used assets
 - **SFX: boss sounds**
   - dpren - https://freesound.org/people/dpren/sounds/440147/ - *boss gun charging*
 
-# Third-party libraries
-  - **DOTween** - http://dotween.demigiant.com
+## Third-party libraries
+- **Tweening**
+ 
+  - DOTween - http://dotween.demigiant.com

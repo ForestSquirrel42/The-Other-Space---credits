@@ -79,3 +79,6 @@ A complete list of used assets
 
 - **SFX: boss sounds**
   - dpren - https://freesound.org/people/dpren/sounds/440147/ - *boss gun charging*
+
+# Third-party libraries
+ - DOTween - http://dotween.demigiant.com

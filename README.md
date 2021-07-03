@@ -81,4 +81,4 @@ A complete list of used assets
   - dpren - https://freesound.org/people/dpren/sounds/440147/ - *boss gun charging*
 
 # Third-party libraries
- - DOTween - http://dotween.demigiant.com
+  - **DOTween** - http://dotween.demigiant.com

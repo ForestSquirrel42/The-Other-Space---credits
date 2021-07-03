@@ -31,6 +31,7 @@ A complete list of used assets
 - **User interface**
   - 3d.rina - https://assetstore.unity.com/packages/2d/gui/sci-fi-gui-skin-15606
   - CraftPix - https://opengameart.org/content/space-shooter-game-user-interface
+  - Unity Tech - https://assetstore.unity.com/packages/essentials/unity-samples-ui-25468
 
 - **Fonts**
   - Ethnocentric - https://www.fontspring.com/fonts/typodermic/ethnocentric - *UI font*
